@@ -63,17 +63,3 @@ food_waste_management/
    ```
 
 ---
-
-## 📊 Demo Screenshots
-(Add screenshots here of your Providers, Receivers, Food Listings, and Analysis dashboards)
-
----
-
-## 🤝 Contribution
-Want to improve this project? Fork it and submit a pull request!  
-
----
-
-## 📧 Contact
-👤 **Prateek Singh**  
-📩 [Email](mailto:your_email@example.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin/) | 🐙 [GitHub](https://github.com/Username-Missing)  
